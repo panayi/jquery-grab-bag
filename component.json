@@ -1,10 +1,6 @@
 {
   "name": "jquery-grab-bag",
   "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/panayi/jquery-grab-bag"
-  },
   "dependencies": {
   	"jquery": "~1.8.0"
   }
