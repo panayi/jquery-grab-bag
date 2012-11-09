@@ -1,0 +1,9 @@
+{
+  "name": "jquery-grab-bag",
+  "version": "0.0.0",
+  "commit": "252dbd780299aa9a562839e4e57f02cdb7035bc7",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/panayi/jquery-grab-bag.git"
+  }
+}
